@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PSP03_TCP_NumAleatorio_Cliente/1.0.0": {
+        "runtime": {
+          "PSP03_TCP_NumAleatorio_Cliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSP03_TCP_NumAleatorio_Cliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

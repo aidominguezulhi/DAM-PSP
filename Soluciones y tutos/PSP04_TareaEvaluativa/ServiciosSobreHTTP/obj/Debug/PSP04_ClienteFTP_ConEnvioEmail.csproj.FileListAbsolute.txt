@@ -1,0 +1,11 @@
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\bin\Debug\12-ServiciosSobreHTTP.exe.config
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\bin\Debug\12-ServiciosSobreHTTP.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\bin\Debug\12-ServiciosSobreHTTP.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\PSP04_ClienteFTP_ConEnvioEmail.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\PSP04_ClienteFTP_ConEnvioEmail.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\ClienteFTP.Form1.resources
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\_12_ServiciosSobreHTTP.Properties.Resources.resources
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\PSP04_ClienteFTP_ConEnvioEmail.csproj.GenerateResource.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\PSP04_ClienteFTP_ConEnvioEmail.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\12-ServiciosSobreHTTP.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\obj\Debug\12-ServiciosSobreHTTP.pdb

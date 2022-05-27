@@ -1,0 +1,15 @@
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\bin\Debug\net6.0\Ejercicio2_Cliente.exe
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\bin\Debug\net6.0\Ejercicio2_Cliente.deps.json
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\bin\Debug\net6.0\Ejercicio2_Cliente.runtimeconfig.json
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\bin\Debug\net6.0\Ejercicio2_Cliente.dll
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\bin\Debug\net6.0\ref\Ejercicio2_Cliente.dll
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\bin\Debug\net6.0\Ejercicio2_Cliente.pdb
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.csproj.AssemblyReference.cache
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.AssemblyInfoInputs.cache
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.AssemblyInfo.cs
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.dll
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\ref\Ejercicio2_Cliente.dll
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.pdb
+C:\Users\Aitor\Desktop\PSP_02_TareaEvaluativa\Ejercicio2\Ejercicio2_Cliente\obj\Debug\net6.0\Ejercicio2_Cliente.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\bin\Debug\net6.0\PSP02_Filosofo.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\bin\Debug\net6.0\PSP02_Filosofo.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\bin\Debug\net6.0\PSP02_Filosofo.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\bin\Debug\net6.0\PSP02_Filosofo.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\bin\Debug\net6.0\ref\PSP02_Filosofo.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\bin\Debug\net6.0\PSP02_Filosofo.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\ref\PSP02_Filosofo.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Filosofo\PSP02_Filosofo\obj\Debug\net6.0\PSP02_Filosofo.genruntimeconfig.cache

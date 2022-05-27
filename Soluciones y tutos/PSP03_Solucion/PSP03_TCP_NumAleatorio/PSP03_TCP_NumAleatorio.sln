@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSP03_TCP_NumAleatorio_Cliente", "PSP03_TCP_NumAleatorio_Cliente.csproj", "{3F8B6D95-C58C-4E01-A87A-FF4FF1DA0A8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSP03_TCP_NumAleatorioServidor", "PSP03_TCP_NumAleatorioServidor.csproj", "{DC633918-AEAE-4C21-B8EB-EDCD9A248195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8B6D95-C58C-4E01-A87A-FF4FF1DA0A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8B6D95-C58C-4E01-A87A-FF4FF1DA0A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8B6D95-C58C-4E01-A87A-FF4FF1DA0A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8B6D95-C58C-4E01-A87A-FF4FF1DA0A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC633918-AEAE-4C21-B8EB-EDCD9A248195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC633918-AEAE-4C21-B8EB-EDCD9A248195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC633918-AEAE-4C21-B8EB-EDCD9A248195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC633918-AEAE-4C21-B8EB-EDCD9A248195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA870D51-16C6-4E05-B3E9-A5E2C8DE7DAE}
+	EndGlobalSection
+EndGlobal

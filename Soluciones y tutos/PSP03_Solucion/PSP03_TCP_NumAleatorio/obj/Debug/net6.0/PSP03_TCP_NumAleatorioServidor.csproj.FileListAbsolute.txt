@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\bin\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.exe
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\bin\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\bin\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\bin\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\bin\Debug\net6.0\ref\PSP03_TCP_NumAleatorioServidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\bin\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\ref\PSP03_TCP_NumAleatorioServidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_NumAleatorio\obj\Debug\net6.0\PSP03_TCP_NumAleatorioServidor.genruntimeconfig.cache

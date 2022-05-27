@@ -1,0 +1,3 @@
+C:\Users\ulhi\Source\Repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\Debug\Form1.resources
+C:\Users\ulhi\Source\Repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\Debug\properties.Resources.resources
+C:\Users\ulhi\Source\Repos\PSP\PSP04_TareaEvaluativa\ServiciosSobreHTTP\Debug\PSP04_TareaEvaluativa.vcxproj.GenerateResource.cache
