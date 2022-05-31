@@ -35,7 +35,7 @@ namespace PSP03_Socket_TCP
 
                 //Recogemos la IP del servidor
                 IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
-                IPAddress ipAddress = ipHostInfo.AddressList[1];
+                IPAddress ipAddress = ipHostInfo.AddressList[5];
                 
                 //Creación del socket listener para recepcionar las peticiones del cliente
                 listener = new Socket(ipAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);

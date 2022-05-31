@@ -1,0 +1,14 @@
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.exe
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.deps.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.runtimeconfig.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.runtimeconfig.dev.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.pdb
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.csproj.AssemblyReference.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.AssemblyInfoInputs.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.AssemblyInfo.cs
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.csproj.CoreCompileInputs.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.pdb
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.genruntimeconfig.cache

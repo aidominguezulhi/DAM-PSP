@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\bin\Debug\net6.0\PSP02_Tarea_Lock_Almacen.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\bin\Debug\net6.0\PSP02_Tarea_Lock_Almacen.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\bin\Debug\net6.0\PSP02_Tarea_Lock_Almacen.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\bin\Debug\net6.0\PSP02_Tarea_Lock_Almacen.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\bin\Debug\net6.0\ref\PSP02_Tarea_Lock_Almacen.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\bin\Debug\net6.0\PSP02_Tarea_Lock_Almacen.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\ref\PSP02_Tarea_Lock_Almacen.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea_Lock_Almacen\PSP02_Tarea_Lock_Almacen\obj\Debug\net6.0\PSP02_Tarea_Lock_Almacen.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ulhi\source\repos\PSP\primerosPasos\bin\Release\netcoreapp2.1\primerosPasos.deps.json
+C:\Users\ulhi\source\repos\PSP\primerosPasos\bin\Release\netcoreapp2.1\primerosPasos.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\primerosPasos\bin\Release\netcoreapp2.1\primerosPasos.runtimeconfig.dev.json
+C:\Users\ulhi\source\repos\PSP\primerosPasos\bin\Release\netcoreapp2.1\primerosPasos.dll
+C:\Users\ulhi\source\repos\PSP\primerosPasos\bin\Release\netcoreapp2.1\primerosPasos.pdb
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.dll
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.pdb
+C:\Users\ulhi\source\repos\PSP\primerosPasos\obj\Release\netcoreapp2.1\primerosPasos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\bin\Debug\net6.0\PSP04_FTP_SubirFichero.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\bin\Debug\net6.0\PSP04_FTP_SubirFichero.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\bin\Debug\net6.0\PSP04_FTP_SubirFichero.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\bin\Debug\net6.0\PSP04_FTP_SubirFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\bin\Debug\net6.0\ref\PSP04_FTP_SubirFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\bin\Debug\net6.0\PSP04_FTP_SubirFichero.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\ref\PSP04_FTP_SubirFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.genruntimeconfig.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_SubirFichero\obj\Debug\net6.0\PSP04_FTP_SubirFichero.csproj.AssemblyReference.cache

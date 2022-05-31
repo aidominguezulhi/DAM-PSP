@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b86b6cde-0f52-425d-a45d-a710c79149e1": {
+      "ProjectGuid": "b86b6cde-0f52-425d-a45d-a710c79149e1",
+      "DisplayName": "PSP04_FTP_SubirFichero_FluentFTP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

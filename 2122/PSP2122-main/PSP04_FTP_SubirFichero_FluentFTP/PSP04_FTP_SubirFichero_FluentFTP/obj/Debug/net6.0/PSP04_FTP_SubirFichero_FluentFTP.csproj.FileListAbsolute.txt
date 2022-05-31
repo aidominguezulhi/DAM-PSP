@@ -1,0 +1,17 @@
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.csproj.AssemblyReference.cache
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.AssemblyInfoInputs.cache
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.AssemblyInfo.cs
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\bin\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.exe
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\bin\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.deps.json
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\bin\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.runtimeconfig.json
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\bin\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.dll
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\bin\Debug\net6.0\ref\PSP04_FTP_SubirFichero_FluentFTP.dll
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\bin\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.pdb
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\bin\Debug\net6.0\FluentFTP.dll
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.csproj.CopyComplete
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.dll
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\ref\PSP04_FTP_SubirFichero_FluentFTP.dll
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.pdb
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_SubirFichero_FluentFTP\obj\Debug\net6.0\PSP04_FTP_SubirFichero_FluentFTP.genruntimeconfig.cache

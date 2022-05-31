@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\bin\Debug\net6.0\PSP04_FTP_ModificarDir.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\bin\Debug\net6.0\PSP04_FTP_ModificarDir.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\bin\Debug\net6.0\PSP04_FTP_ModificarDir.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\bin\Debug\net6.0\PSP04_FTP_ModificarDir.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\bin\Debug\net6.0\ref\PSP04_FTP_ModificarDir.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\bin\Debug\net6.0\PSP04_FTP_ModificarDir.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\ref\PSP04_FTP_ModificarDir.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ModificarDirectorio\obj\Debug\net6.0\PSP04_FTP_ModificarDir.genruntimeconfig.cache

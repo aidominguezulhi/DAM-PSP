@@ -1,0 +1,11 @@
+C:\Users\ulhi\Source\Repos\PSP\procesos2\bin\Release\procesos2.exe.config
+C:\Users\ulhi\Source\Repos\PSP\procesos2\bin\Release\procesos2.exe
+C:\Users\ulhi\Source\Repos\PSP\procesos2\bin\Release\procesos2.pdb
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.csproj.AssemblyReference.cache
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.Form1.resources
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.Properties.Resources.resources
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.csproj.GenerateResource.cache
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.exe
+C:\Users\ulhi\Source\Repos\PSP\procesos2\obj\Release\procesos2.pdb

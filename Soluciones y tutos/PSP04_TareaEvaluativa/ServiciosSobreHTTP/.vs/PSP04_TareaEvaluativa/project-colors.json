@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc6797c0-e273-4407-9132-8a3f96ec6c7a": {
+      "ProjectGuid": "bc6797c0-e273-4407-9132-8a3f96ec6c7a",
+      "DisplayName": "PSP04_ClienteFTP_ConEnvioEmail",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

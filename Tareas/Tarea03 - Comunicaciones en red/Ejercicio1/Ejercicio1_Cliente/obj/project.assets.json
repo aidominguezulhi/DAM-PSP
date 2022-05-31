@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aitor\\Desktop\\PSP_02_TareaEvaluativa\\Ejercicio1\\Ejercicio1_Cliente\\Ejercicio1_Cliente.csproj",
+      "projectUniqueName": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Tareas\\Tarea03 - Comunicaciones en red\\Ejercicio1\\Ejercicio1_Cliente\\Ejercicio1_Cliente.csproj",
       "projectName": "Ejercicio1_Cliente",
-      "projectPath": "C:\\Users\\Aitor\\Desktop\\PSP_02_TareaEvaluativa\\Ejercicio1\\Ejercicio1_Cliente\\Ejercicio1_Cliente.csproj",
+      "projectPath": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Tareas\\Tarea03 - Comunicaciones en red\\Ejercicio1\\Ejercicio1_Cliente\\Ejercicio1_Cliente.csproj",
       "packagesPath": "C:\\Users\\Aitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aitor\\Desktop\\PSP_02_TareaEvaluativa\\Ejercicio1\\Ejercicio1_Cliente\\obj\\",
+      "outputPath": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Tareas\\Tarea03 - Comunicaciones en red\\Ejercicio1\\Ejercicio1_Cliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

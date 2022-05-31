@@ -1,0 +1,17 @@
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\bin\Debug\net6.0\PSP04_SMTP_RecuperarEmail.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\bin\Debug\net6.0\PSP04_SMTP_RecuperarEmail.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\bin\Debug\net6.0\PSP04_SMTP_RecuperarEmail.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\bin\Debug\net6.0\PSP04_SMTP_RecuperarEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\bin\Debug\net6.0\ref\PSP04_SMTP_RecuperarEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\bin\Debug\net6.0\PSP04_SMTP_RecuperarEmail.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\bin\Debug\net6.0\OpenPop.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.csproj.CopyComplete
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\ref\PSP04_SMTP_RecuperarEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_RecuperarEmail\obj\Debug\net6.0\PSP04_SMTP_RecuperarEmail.genruntimeconfig.cache

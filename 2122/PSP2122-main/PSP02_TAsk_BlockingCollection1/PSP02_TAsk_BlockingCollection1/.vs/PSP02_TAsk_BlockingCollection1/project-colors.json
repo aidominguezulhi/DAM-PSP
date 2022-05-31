@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91f4addf-d905-4702-a235-878740c4d022": {
+      "ProjectGuid": "91f4addf-d905-4702-a235-878740c4d022",
+      "DisplayName": "PSP02_TAsk_BlockingCollection1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

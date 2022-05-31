@@ -14,6 +14,10 @@ namespace ComunicacionPrimerosPaso
             //Recoge la dirección ip de la máquina local
             ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
             ipAddress = ipHostInfo.AddressList[1];
+            for(int i = 0; i < ipHostInfo.AddressList.Length ; i++)
+            {
+                Console.WriteLine("La direccion {0} corresponde a el numero {1} del array", ipHostInfo.AddressList[i].ToString(), i);
+            }
             Console.WriteLine("La direcion de esta maquina es: {0}", ipAddress);
 
         }

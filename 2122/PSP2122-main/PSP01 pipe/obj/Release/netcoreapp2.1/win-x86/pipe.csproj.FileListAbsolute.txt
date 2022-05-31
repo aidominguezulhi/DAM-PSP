@@ -1,0 +1,16 @@
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\pipe.exe
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\pipe.deps.json
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\pipe.runtimeconfig.json
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\pipe.runtimeconfig.dev.json
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\pipe.dll
+C:\Users\ulhi\Source\Repos\PSP\pipe\bin\Release\netcoreapp2.1\win-x86\pipe.pdb
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.csproj.AssemblyReference.cache
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.AssemblyInfoInputs.cache
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.AssemblyInfo.cs
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.dll
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.pdb
+C:\Users\ulhi\Source\Repos\PSP\pipe\obj\Release\netcoreapp2.1\win-x86\pipe.genruntimeconfig.cache

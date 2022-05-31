@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\bin\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.exe
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\bin\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\bin\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\bin\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\bin\Debug\net6.0\ref\PSP03_TCP_Varios_Clientes_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\bin\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\ref\PSP03_TCP_Varios_Clientes_Servidor.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_TCP_VariosClientes\obj\Debug\net6.0\PSP03_TCP_Varios_Clientes_Servidor.genruntimeconfig.cache

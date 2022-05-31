@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\bin\Debug\net6.0\PSP04_FTP_ServidorPublico.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\bin\Debug\net6.0\PSP04_FTP_ServidorPublico.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\bin\Debug\net6.0\PSP04_FTP_ServidorPublico.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\bin\Debug\net6.0\PSP04_FTP_ServidorPublico.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\bin\Debug\net6.0\ref\PSP04_FTP_ServidorPublico.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\bin\Debug\net6.0\PSP04_FTP_ServidorPublico.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\ref\PSP04_FTP_ServidorPublico.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_ServidorPublico\obj\Debug\net6.0\PSP04_FTP_ServidorPublico.genruntimeconfig.cache

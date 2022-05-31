@@ -1,0 +1,14 @@
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.exe
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.deps.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.runtimeconfig.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.runtimeconfig.dev.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.pdb
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.csproj.AssemblyReference.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.AssemblyInfoInputs.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.AssemblyInfo.cs
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.csproj.CoreCompileInputs.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.pdb
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.genruntimeconfig.cache

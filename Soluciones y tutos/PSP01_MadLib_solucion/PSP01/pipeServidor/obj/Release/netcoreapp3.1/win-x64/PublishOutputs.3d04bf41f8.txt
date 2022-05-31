@@ -1,0 +1,5 @@
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.exe
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.deps.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.runtimeconfig.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP01_MadLib_solucion\PSP01\pipeServidor\bin\Release\netcoreapp3.1\publish\win-x64\pipeServidor.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78115878-0123-45e7-afcf-4129c64ea956": {
+      "ProjectGuid": "78115878-0123-45e7-afcf-4129c64ea956",
+      "DisplayName": "PSP04_SMTP_EnvíoEmail",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

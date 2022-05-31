@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\bin\Debug\net6.0\PSP03_DireccionIP_DNS.exe
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\bin\Debug\net6.0\PSP03_DireccionIP_DNS.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\bin\Debug\net6.0\PSP03_DireccionIP_DNS.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\bin\Debug\net6.0\PSP03_DireccionIP_DNS.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\bin\Debug\net6.0\ref\PSP03_DireccionIP_DNS.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\bin\Debug\net6.0\PSP03_DireccionIP_DNS.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\ref\PSP03_DireccionIP_DNS.dll
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.pdb
+C:\Users\ulhi\source\repos\PSP\PSP03_DireccionIP_DNS\PSP03_DireccionIP_DNS\obj\Debug\net6.0\PSP03_DireccionIP_DNS.genruntimeconfig.cache

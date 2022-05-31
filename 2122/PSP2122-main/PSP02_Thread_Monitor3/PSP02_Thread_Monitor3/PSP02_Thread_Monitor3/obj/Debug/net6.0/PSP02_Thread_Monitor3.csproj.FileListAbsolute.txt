@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\bin\Debug\net6.0\PSP02_Thread_Monitor3.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\bin\Debug\net6.0\PSP02_Thread_Monitor3.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\bin\Debug\net6.0\PSP02_Thread_Monitor3.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\bin\Debug\net6.0\PSP02_Thread_Monitor3.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\bin\Debug\net6.0\ref\PSP02_Thread_Monitor3.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\bin\Debug\net6.0\PSP02_Thread_Monitor3.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\ref\PSP02_Thread_Monitor3.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Thread_Monitor3\PSP02_Thread_Monitor3\obj\Debug\net6.0\PSP02_Thread_Monitor3.genruntimeconfig.cache

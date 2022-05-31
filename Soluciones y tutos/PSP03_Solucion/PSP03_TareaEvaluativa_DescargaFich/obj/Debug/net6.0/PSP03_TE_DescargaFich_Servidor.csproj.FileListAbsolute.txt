@@ -1,0 +1,15 @@
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\bin\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.exe
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\bin\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.deps.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\bin\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.runtimeconfig.json
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\bin\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\bin\Debug\net6.0\ref\PSP03_TE_DescargaFich_Servidor.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\bin\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.pdb
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.csproj.AssemblyReference.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.AssemblyInfoInputs.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.AssemblyInfo.cs
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\ref\PSP03_TE_DescargaFich_Servidor.dll
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.pdb
+C:\Users\Aitor\source\repos\allrepo\Soluciones y tutos\PSP03_Solucion\PSP03_TareaEvaluativa_DescargaFich\obj\Debug\net6.0\PSP03_TE_DescargaFich_Servidor.genruntimeconfig.cache

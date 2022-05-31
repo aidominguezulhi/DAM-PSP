@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\bin\Debug\net6.0\PSP02_Task_Crear.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\bin\Debug\net6.0\PSP02_Task_Crear.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\bin\Debug\net6.0\PSP02_Task_Crear.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\bin\Debug\net6.0\PSP02_Task_Crear.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\bin\Debug\net6.0\ref\PSP02_Task_Crear.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\bin\Debug\net6.0\PSP02_Task_Crear.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\ref\PSP02_Task_Crear.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_Crear\PSP02_Task_Crear\obj\Debug\net6.0\PSP02_Task_Crear.genruntimeconfig.cache

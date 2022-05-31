@@ -1,0 +1,13 @@
+C:\Users\ulhi\source\repos\PSP\parametros\bin\Release\netcoreapp2.1\parametros.deps.json
+C:\Users\ulhi\source\repos\PSP\parametros\bin\Release\netcoreapp2.1\parametros.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\parametros\bin\Release\netcoreapp2.1\parametros.runtimeconfig.dev.json
+C:\Users\ulhi\source\repos\PSP\parametros\bin\Release\netcoreapp2.1\parametros.dll
+C:\Users\ulhi\source\repos\PSP\parametros\bin\Release\netcoreapp2.1\parametros.pdb
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.dll
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.pdb
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.genruntimeconfig.cache
+C:\Users\ulhi\source\repos\PSP\parametros\obj\Release\netcoreapp2.1\parametros.csproj.AssemblyReference.cache

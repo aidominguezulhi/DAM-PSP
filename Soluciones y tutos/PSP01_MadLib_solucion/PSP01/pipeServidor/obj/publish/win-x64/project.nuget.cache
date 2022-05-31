@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "631cZmttijvP7jKDc25WRkjf8pzfBbz4/SHhVaymwrhJeI1Fx3nQu5q5ven1rW98TV5XnSlw4yRTtYiihUCj1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Soluciones y tutos\\PSP01_MadLib_solucion\\PSP01\\pipeServidor\\pipeServidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aitor\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Aitor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Aitor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Aitor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

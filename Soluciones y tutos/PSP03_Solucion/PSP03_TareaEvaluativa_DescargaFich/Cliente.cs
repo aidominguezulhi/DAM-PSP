@@ -28,7 +28,7 @@ namespace PSP03_Socket_TCP
 
 
                 IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
-                IPAddress ipAddress = ipHostInfo.AddressList[1];
+                IPAddress ipAddress = ipHostInfo.AddressList[5];
 
                 sender = new Socket(ipAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
                 Console.WriteLine("Programa cliente iniciando.\n");

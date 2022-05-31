@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\bin\Debug\net6.0\PSP04_FTP_BorrarFichero.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\bin\Debug\net6.0\PSP04_FTP_BorrarFichero.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\bin\Debug\net6.0\PSP04_FTP_BorrarFichero.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\bin\Debug\net6.0\PSP04_FTP_BorrarFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\bin\Debug\net6.0\ref\PSP04_FTP_BorrarFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\bin\Debug\net6.0\PSP04_FTP_BorrarFichero.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\ref\PSP04_FTP_BorrarFichero.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.genruntimeconfig.cache
+C:\Users\ulhi\Source\Repos\PSP\PSP04_FTP_BorrarFichero\obj\Debug\net6.0\PSP04_FTP_BorrarFichero.csproj.AssemblyReference.cache

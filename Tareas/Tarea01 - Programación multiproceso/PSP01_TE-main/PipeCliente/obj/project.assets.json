@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aitor\\PSP7\\TareaEvaluativa01\\Solution1\\PipeCliente\\PipeCliente.csproj",
+      "projectUniqueName": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Tareas\\Tarea01 - Programación multiproceso\\PSP01_TE-main\\PipeCliente\\PipeCliente.csproj",
       "projectName": "PipeCliente",
-      "projectPath": "C:\\Users\\Aitor\\PSP7\\TareaEvaluativa01\\Solution1\\PipeCliente\\PipeCliente.csproj",
+      "projectPath": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Tareas\\Tarea01 - Programación multiproceso\\PSP01_TE-main\\PipeCliente\\PipeCliente.csproj",
       "packagesPath": "C:\\Users\\Aitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aitor\\PSP7\\TareaEvaluativa01\\Solution1\\PipeCliente\\obj\\",
+      "outputPath": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Tareas\\Tarea01 - Programación multiproceso\\PSP01_TE-main\\PipeCliente\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\bin\Debug\net6.0\PSP02_Task_TareasSecuenciales2.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\bin\Debug\net6.0\PSP02_Task_TareasSecuenciales2.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\bin\Debug\net6.0\PSP02_Task_TareasSecuenciales2.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\bin\Debug\net6.0\PSP02_Task_TareasSecuenciales2.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\bin\Debug\net6.0\ref\PSP02_Task_TareasSecuenciales2.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\bin\Debug\net6.0\PSP02_Task_TareasSecuenciales2.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\ref\PSP02_Task_TareasSecuenciales2.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.genruntimeconfig.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_TareasSecuenciales2\PSP02_Task_TareasSecuenciales2\obj\Debug\net6.0\PSP02_Task_TareasSecuenciales2.csproj.AssemblyReference.cache

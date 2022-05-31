@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\bin\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\bin\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\bin\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\bin\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\bin\Debug\net6.0\ref\PSP02_Task_EjecucionSecuencial_run.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\bin\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\ref\PSP02_Task_EjecucionSecuencial_run.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.genruntimeconfig.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Task_EjecucionSecuencial_run\PSP02_Task_EjecucionSecuencial_run\obj\Debug\net6.0\PSP02_Task_EjecucionSecuencial_run.csproj.AssemblyReference.cache

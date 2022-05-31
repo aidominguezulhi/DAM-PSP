@@ -1,0 +1,10 @@
+C:\Users\ulhi\source\repos\PSP\procesos2\bin\Debug\procesos2.exe.config
+C:\Users\ulhi\source\repos\PSP\procesos2\bin\Debug\procesos2.exe
+C:\Users\ulhi\source\repos\PSP\procesos2\bin\Debug\procesos2.pdb
+C:\Users\ulhi\source\repos\PSP\procesos2\obj\Debug\procesos2.Form1.resources
+C:\Users\ulhi\source\repos\PSP\procesos2\obj\Debug\procesos2.Properties.Resources.resources
+C:\Users\ulhi\source\repos\PSP\procesos2\obj\Debug\procesos2.csproj.GenerateResource.cache
+C:\Users\ulhi\source\repos\PSP\procesos2\obj\Debug\procesos2.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\procesos2\obj\Debug\procesos2.exe
+C:\Users\ulhi\source\repos\PSP\procesos2\obj\Debug\procesos2.pdb
+C:\Users\ulhi\source\repos\PSP\procesos2\obj\Debug\procesos2.csprojAssemblyReference.cache

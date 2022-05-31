@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfb51e11-b4b7-464e-b55f-52a78e2c76e2": {
+      "ProjectGuid": "cfb51e11-b4b7-464e-b55f-52a78e2c76e2",
+      "DisplayName": "PSP03_Socket_UDP_Srv",
+      "ColorIndex": 0
+    },
+    "a9d2a80b-905f-4064-9231-922ac502c9b6": {
+      "ProjectGuid": "a9d2a80b-905f-4064-9231-922ac502c9b6",
+      "DisplayName": "PSP03_Socket_UDP_Cliente",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "681ef978-ac1c-4224-b4a4-c9755abecb7a": {
+      "ProjectGuid": "681ef978-ac1c-4224-b4a4-c9755abecb7a",
+      "DisplayName": "PSP02_Filosofo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

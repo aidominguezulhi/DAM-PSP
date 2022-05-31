@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSP03_TCP_Cliente", "PSP03_TCP_Sincrono_Cliente\PSP03_TCP_Cliente.csproj", "{11379C3B-D924-494F-8269-8BF4F326A9AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSP03_TCP__Servidor", "PSP03_TCP_Sincrono_Servidor\PSP03_TCP__Servidor.csproj", "{76F1958C-F6D6-4F83-B361-0F20E684D73F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11379C3B-D924-494F-8269-8BF4F326A9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11379C3B-D924-494F-8269-8BF4F326A9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11379C3B-D924-494F-8269-8BF4F326A9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11379C3B-D924-494F-8269-8BF4F326A9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F1958C-F6D6-4F83-B361-0F20E684D73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F1958C-F6D6-4F83-B361-0F20E684D73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F1958C-F6D6-4F83-B361-0F20E684D73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F1958C-F6D6-4F83-B361-0F20E684D73F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94BA266-7C89-4BF5-B541-F16701837A4E}
+	EndGlobalSection
+EndGlobal

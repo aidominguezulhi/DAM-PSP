@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c4ac4d2-05d6-47a6-a1bd-46ee068fa790": {
+      "ProjectGuid": "2c4ac4d2-05d6-47a6-a1bd-46ee068fa790",
+      "DisplayName": "PSP03_Sincrono_TCP_Cliente",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

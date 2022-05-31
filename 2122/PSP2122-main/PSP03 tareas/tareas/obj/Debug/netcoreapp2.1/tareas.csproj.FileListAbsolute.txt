@@ -1,0 +1,13 @@
+C:\Users\ulhi\source\repos\PSP\tareas\bin\Debug\netcoreapp2.1\tareas.deps.json
+C:\Users\ulhi\source\repos\PSP\tareas\bin\Debug\netcoreapp2.1\tareas.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\tareas\bin\Debug\netcoreapp2.1\tareas.runtimeconfig.dev.json
+C:\Users\ulhi\source\repos\PSP\tareas\bin\Debug\netcoreapp2.1\tareas.dll
+C:\Users\ulhi\source\repos\PSP\tareas\bin\Debug\netcoreapp2.1\tareas.pdb
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.dll
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.pdb
+C:\Users\ulhi\source\repos\PSP\tareas\obj\Debug\netcoreapp2.1\tareas.genruntimeconfig.cache

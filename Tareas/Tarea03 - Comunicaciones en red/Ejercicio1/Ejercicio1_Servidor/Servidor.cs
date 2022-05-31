@@ -47,7 +47,7 @@ namespace ClienteSincrono
 
             TcpListener listener = new TcpListener(ipserver, port);
             Console.WriteLine("Socket listener creado");
-            listener.Start();
+            listener.Start(10);
 
             Random rnd = new Random();
             num = rnd.Next(1, 101);
@@ -78,14 +78,14 @@ namespace ClienteSincrono
 
         private void ControlDatos(TcpClient socket, int id, Partida partida)
         {
-            Random rnd = new Random();
-            int numId = rnd.Next(1, 101);
+            //Random rnd = new Random();
+            int numId = socket.Client.Handle.ToInt32();
             string contador;
 
             NetworkStream network = socket.GetStream();
             StreamWriter writer = new StreamWriter(network);
             StreamReader reader = new StreamReader(network);
-
+            
             Console.WriteLine("Buffer de entrada y salida creados");
             Console.WriteLine("id Jugador = {0}", numId);
             writer.WriteLine("Soy el jugador numero " + numId);

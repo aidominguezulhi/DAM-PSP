@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\bin\Debug\net6.0\PSP02_Tarea1.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\bin\Debug\net6.0\PSP02_Tarea1.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\bin\Debug\net6.0\PSP02_Tarea1.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\bin\Debug\net6.0\PSP02_Tarea1.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\bin\Debug\net6.0\ref\PSP02_Tarea1.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\bin\Debug\net6.0\PSP02_Tarea1.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\ref\PSP02_Tarea1.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_Tarea1\PSP02_Tarea1\obj\Debug\net6.0\PSP02_Tarea1.genruntimeconfig.cache

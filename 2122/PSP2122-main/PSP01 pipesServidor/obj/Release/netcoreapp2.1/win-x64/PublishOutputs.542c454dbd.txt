@@ -1,0 +1,5 @@
+C:\Users\ulhi\Source\Repos\PSP\pipesServidor\bin\Release\netcoreapp2.1\publish\win-x64\pipesServidor.exe
+C:\Users\ulhi\Source\Repos\PSP\pipesServidor\bin\Release\netcoreapp2.1\publish\win-x64\pipesServidor.dll
+C:\Users\ulhi\Source\Repos\PSP\pipesServidor\bin\Release\netcoreapp2.1\publish\win-x64\pipesServidor.deps.json
+C:\Users\ulhi\Source\Repos\PSP\pipesServidor\bin\Release\netcoreapp2.1\publish\win-x64\pipesServidor.runtimeconfig.json
+C:\Users\ulhi\Source\Repos\PSP\pipesServidor\bin\Release\netcoreapp2.1\publish\win-x64\pipesServidor.pdb

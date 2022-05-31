@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PSP02_Socket_UDP_Srv/1.0.0": {
+        "runtime": {
+          "PSP02_Socket_UDP_Srv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSP02_Socket_UDP_Srv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ulhi\\Source\\Repos\\PSP\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj": {}
+    "C:\\Users\\Aitor\\source\\repos\\allrepo\\Soluciones y tutos\\PSP03_Solucion\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ulhi\\Source\\Repos\\PSP\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj": {
+    "C:\\Users\\Aitor\\source\\repos\\allrepo\\Soluciones y tutos\\PSP03_Solucion\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ulhi\\Source\\Repos\\PSP\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj",
+        "projectUniqueName": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Soluciones y tutos\\PSP03_Solucion\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj",
         "projectName": "PSP03_TCP_NumAleatorioServidor",
-        "projectPath": "C:\\Users\\ulhi\\Source\\Repos\\PSP\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj",
-        "packagesPath": "C:\\Users\\ulhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ulhi\\Source\\Repos\\PSP\\PSP03_TCP_NumAleatorio\\obj\\",
+        "projectPath": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Soluciones y tutos\\PSP03_Solucion\\PSP03_TCP_NumAleatorio\\PSP03_TCP_NumAleatorioServidor.csproj",
+        "packagesPath": "C:\\Users\\Aitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aitor\\source\\repos\\allrepo\\Soluciones y tutos\\PSP03_Solucion\\PSP03_TCP_NumAleatorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ulhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

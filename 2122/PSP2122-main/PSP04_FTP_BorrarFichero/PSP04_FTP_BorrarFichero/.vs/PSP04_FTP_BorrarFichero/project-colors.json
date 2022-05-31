@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30e72fce-2349-4bb3-9aaf-f4c69b64180a": {
+      "ProjectGuid": "30e72fce-2349-4bb3-9aaf-f4c69b64180a",
+      "DisplayName": "PSP04_FTP_BorrarFichero",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

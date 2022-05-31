@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5d1922d-ea8d-4ee0-9149-b02638a448f9": {
+      "ProjectGuid": "c5d1922d-ea8d-4ee0-9149-b02638a448f9",
+      "DisplayName": "Ejercicio2_Servidor",
+      "ColorIndex": 0
+    },
+    "80c7871f-55d1-42c5-8b66-e02c19f5a004": {
+      "ProjectGuid": "80c7871f-55d1-42c5-8b66-e02c19f5a004",
+      "DisplayName": "Ejercicio2_Cliente",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,13 @@
+C:\Users\ulhi\Source\Repos\PSP\procesos\bin\Debug\netcoreapp2.1\procesos.deps.json
+C:\Users\ulhi\Source\Repos\PSP\procesos\bin\Debug\netcoreapp2.1\procesos.runtimeconfig.json
+C:\Users\ulhi\Source\Repos\PSP\procesos\bin\Debug\netcoreapp2.1\procesos.runtimeconfig.dev.json
+C:\Users\ulhi\Source\Repos\PSP\procesos\bin\Debug\netcoreapp2.1\procesos.dll
+C:\Users\ulhi\Source\Repos\PSP\procesos\bin\Debug\netcoreapp2.1\procesos.pdb
+C:\Users\ulhi\Source\Repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.AssemblyInfoInputs.cache
+C:\Users\ulhi\Source\Repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.AssemblyInfo.cs
+C:\Users\ulhi\Source\Repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\Source\Repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.dll
+C:\Users\ulhi\Source\Repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.pdb
+C:\Users\ulhi\Source\Repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.genruntimeconfig.cache
+C:\Users\ulhi\source\repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\procesos\obj\Debug\netcoreapp2.1\procesos.GeneratedMSBuildEditorConfig.editorconfig
